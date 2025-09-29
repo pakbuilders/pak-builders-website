@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://pakconstruction.work/sitemap
+
+# Crawl-delay
+Crawl-delay: 1
